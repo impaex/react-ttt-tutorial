@@ -1,3 +1,6 @@
+# Basic react tutorial 
+This is my first react repository, following the tutorial on the website. The rest of the text is automatically generated.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
